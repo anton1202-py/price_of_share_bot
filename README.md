@@ -8,14 +8,14 @@
 
 ### Чтобы развернуть проект локально, нужно:  
 Клонировать проект с репозитория.  
-> git clone  
+``` git clone https://github.com/anton1202-py/price_of_share_bot.git```  
 Установить виртуальное окружение.  
-> python -m venv venv  
+```python -m venv venv```  
 Активировать виртуальное окружение.  
-> . venv/scripts/activate  
+``` . venv/scripts/activate```  
 Установить зависимости.  
-> pip install -r requirements.txt  
+```pip install -r requirements.txt```  
 Зарегистрировать своего бота в BotFather в Telegram. Скопировать его токен и вставить в файл .env в формате:  
-> TELEGRAM_TOKEN=<Ваш токен>  
+```TELEGRAM_TOKEN=<Ваш токен>```  
 
 #### Автор проекта - Кузнецов Антон.
