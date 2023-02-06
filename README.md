@@ -1,4 +1,4 @@
-# Price share telegram bot
+# Price of share telegram bot
 
 ## Проект telegram-бота, который информирует о цене акции  
 При введении тикера российской акции отправляет в ответ:
